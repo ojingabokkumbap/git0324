@@ -8,7 +8,7 @@
 <h1>
 	Hello world!  
 </h1>
-
-<P>  The time on the server is ${serverTime}. </P>
+ 
+<P> 김동명 바보멍청이 </P>
 </body>
 </html>
